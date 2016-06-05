@@ -1,2 +1,1 @@
-# App.Template
-App.Template
+## App.Template
